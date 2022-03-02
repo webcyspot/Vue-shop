@@ -1,14 +1,3 @@
-# Vuemmerce - Ecommerce Template
-
-Responsive ecommerce template built with Vue.js and Nuxt.js
-
-[![Build Status](https://travis-ci.org/ivanlori/Vuemmerce.svg)](https://travis-ci.org/ivanlori/Vuemmerce)
-[![devDependency Status](https://david-dm.org/ivanlori/Vuemmerce/dev-status.svg)](https://david-dm.org/ivanlori/Vuemmerce#info=devDependencies)
-[![vue](https://img.shields.io/badge/vue-2.6.10-brightgreen.svg)](https://github.com/vuejs/vue)
-[![GitHub license](https://img.shields.io/github/license/ivanlori/Vuemmerce.svg)](https://github.com/ivanlori/Vuemmerce/blob/master/LICENSE)
-[![](https://img.shields.io/twitter/url/https/github.com/ivanlori/Vuemmerce.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fivanlori%2FVuemmerce)
-
----
 
 ## Installing
 
@@ -26,14 +15,6 @@ yarn dev
 yarn build
 
 ```
-
----
-
-## Screenshot
-
-![Vuemmerce - Ecommerce Template](screen.png "Vuemmerce - Ecommerce Browser Preview")
-
-**[Template Demo](https://vuemmerce-git-master.ivanlori.now.sh/)**
 
 ---
 
@@ -60,13 +41,3 @@ Follow the steps below.
 If you have any questions, feel free to email me at [ivan.lori@protonmail.com](mailto:ivan.lori@protonmail.com).
 
 ---
-
-## Changelog
-
-See the release notes into [changelog.md](changelog.md)
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
